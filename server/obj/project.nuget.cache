@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LvuNHSessZY=",
+  "success": true,
+  "projectFilePath": "/home/kaique/Disco 2/Projetos de Programação/Projeto Ayla/server/server.csproj",
+  "expectedPackageFiles": [
+    "/home/kaique/.nuget/packages/microsoft.aspnetcore.openapi/10.0.14/microsoft.aspnetcore.openapi.10.0.14.nupkg.sha512",
+    "/home/kaique/.nuget/packages/microsoft.openapi/2.12.2/microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}
