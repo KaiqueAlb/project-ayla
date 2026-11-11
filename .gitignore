@@ -1,0 +1,48 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Build
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rtifacts/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider / IntelliJ
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# Zed IDE
+.zed/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/packages/
+
+# Logs
+*.log
+logs/
+[Ll]ogs/
+
+# Test results
+[Tt]est[Rr]esults/
+coverage/
+coverage.*
