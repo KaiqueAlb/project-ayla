@@ -31,3 +31,4 @@
 /home/kaique/Disco 2/Projetos de Programação/Projeto Ayla/server/obj/Debug/net10.0/server.pdb
 /home/kaique/Disco 2/Projetos de Programação/Projeto Ayla/server/obj/Debug/net10.0/server.genruntimeconfig.cache
 /home/kaique/Disco 2/Projetos de Programação/Projeto Ayla/server/obj/Debug/net10.0/ref/server.dll
+/home/kaique/Disco 2/Projetos de Programação/Projeto Ayla/server/obj/Debug/net10.0/server.sourcelink.json
